@@ -1,0 +1,72 @@
+The typhoon is[Ǩ:3]
+ferocious
+ferocious
+The typhoon is ferocious
+The heatwave is[Ǩ:3]
+unbearable
+unbearable
+The heatwave is unbearable
+The rainstorm is[Ǩ:3]
+torrential
+torrential
+The rainstorm is torrential
+The drought is[Ǩ:3]
+severe
+severe
+The drought is severe
+The lightning is[Ǩ:3]
+intense
+intense
+The lightning is intense
+The snowstorm is[Ǩ:3]
+blinding
+blinding
+The snowstorm is blinding
+The rain is[Ǩ:3]
+pounding
+pounding
+The rain is pounding
+The fog is[Ǩ:3]
+thick
+thick
+The fog is thick
+The sun is[Ǩ:3]
+scorching
+scorching
+The sun is scorching
+The temperature is[Ǩ:3]
+freezing
+freezing
+The temperature is freezing
+The weather is[Ǩ:3]
+unpredictable
+unpredictable
+The weather is unpredictable
+The ice is[Ǩ:3]
+treacherous
+treacherous
+The ice is treacherous
+The avalanche is[Ǩ:3]
+massive
+massive
+The avalanche is massive
+The flood is[Ǩ:3]
+uncontrollable
+uncontrollable
+The flood is uncontrollable
+The temperature is[Ǩ:3]
+sweltering
+sweltering
+The temperature is sweltering
+The tsunami is[Ǩ:3]
+overpowering
+overpowering
+The tsunami is overpowering
+The thunder is[Ǩ:3]
+deafening
+deafening
+The thunder is deafening
+The sky is[Ǩ:3]
+overcast
+overcast
+The sky is overcast

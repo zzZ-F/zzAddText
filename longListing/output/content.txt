@@ -1,0 +1,535 @@
+What are we having for breakfast today? [Ǩ:2]
+What are we having for breakfast today? [Ǩ:5]
+What are we having for breakfast today? [Ǩ:2]
+What are we having for breakfast today? [Ǩ:2]
+
+I was thinking of making pancakes. Does that sound good? [Ǩ:2]
+I was thinking of making pancakes. Does that sound good? [Ǩ:5]
+I was thinking of making pancakes. Does that sound good? [Ǩ:2]
+I was thinking of making pancakes. Does that sound good? [Ǩ:2]
+
+Yeah, that sounds great. Do we have syrup? [Ǩ:2]
+Yeah, that sounds great. Do we have syrup? [Ǩ:5]
+Yeah, that sounds great. Do we have syrup? [Ǩ:2]
+Yeah, that sounds great. Do we have syrup? [Ǩ:2]
+
+I’ll check the pantry. Oh, looks like we're running low. [Ǩ:2]
+I’ll check the pantry. Oh, looks like we're running low. [Ǩ:5]
+I’ll check the pantry. Oh, looks like we're running low. [Ǩ:2]
+I’ll check the pantry. Oh, looks like we're running low. [Ǩ:2]
+
+I’ll grab some at the store later. [Ǩ:2]
+I’ll grab some at the store later. [Ǩ:5]
+I’ll grab some at the store later. [Ǩ:2]
+I’ll grab some at the store later. [Ǩ:2]
+
+Do we have eggs to go with the pancakes? [Ǩ:2]
+Do we have eggs to go with the pancakes? [Ǩ:5]
+Do we have eggs to go with the pancakes? [Ǩ:2]
+Do we have eggs to go with the pancakes? [Ǩ:2]
+
+Yep, plenty. I’ll get them ready now. [Ǩ:2]
+Yep, plenty. I’ll get them ready now. [Ǩ:5]
+Yep, plenty. I’ll get them ready now. [Ǩ:2]
+Yep, plenty. I’ll get them ready now. [Ǩ:2]
+
+Do you want coffee or tea this morning? [Ǩ:2]
+Do you want coffee or tea this morning? [Ǩ:5]
+Do you want coffee or tea this morning? [Ǩ:2]
+Do you want coffee or tea this morning? [Ǩ:2]
+
+I think I’ll have coffee. Can you make it a bit stronger today? [Ǩ:2]
+I think I’ll have coffee. Can you make it a bit stronger today? [Ǩ:5]
+I think I’ll have coffee. Can you make it a bit stronger today? [Ǩ:2]
+I think I’ll have coffee. Can you make it a bit stronger today? [Ǩ:2]
+
+Sure, I’ll add an extra scoop for you. [Ǩ:2]
+Sure, I’ll add an extra scoop for you. [Ǩ:5]
+Sure, I’ll add an extra scoop for you. [Ǩ:2]
+Sure, I’ll add an extra scoop for you. [Ǩ:2]
+
+Thanks. I’ll set the table while you cook. [Ǩ:2]
+Thanks. I’ll set the table while you cook. [Ǩ:5]
+Thanks. I’ll set the table while you cook. [Ǩ:2]
+Thanks. I’ll set the table while you cook. [Ǩ:2]
+
+Don’t forget the butter for the pancakes. [Ǩ:2]
+Don’t forget the butter for the pancakes. [Ǩ:5]
+Don’t forget the butter for the pancakes. [Ǩ:2]
+Don’t forget the butter for the pancakes. [Ǩ:2]
+
+Got it. Do you want anything else with breakfast? [Ǩ:2]
+Got it. Do you want anything else with breakfast? [Ǩ:5]
+Got it. Do you want anything else with breakfast? [Ǩ:2]
+Got it. Do you want anything else with breakfast? [Ǩ:2]
+
+Maybe some fruit. We have bananas, right? [Ǩ:2]
+Maybe some fruit. We have bananas, right? [Ǩ:5]
+Maybe some fruit. We have bananas, right? [Ǩ:2]
+Maybe some fruit. We have bananas, right? [Ǩ:2]
+
+Yeah, I’ll slice a couple to go with the pancakes. [Ǩ:2]
+Yeah, I’ll slice a couple to go with the pancakes. [Ǩ:5]
+Yeah, I’ll slice a couple to go with the pancakes. [Ǩ:2]
+Yeah, I’ll slice a couple to go with the pancakes. [Ǩ:2]
+
+Great. The kids are still asleep, aren’t they? [Ǩ:2]
+Great. The kids are still asleep, aren’t they? [Ǩ:5]
+Great. The kids are still asleep, aren’t they? [Ǩ:2]
+Great. The kids are still asleep, aren’t they? [Ǩ:2]
+
+Yeah, but they should wake up soon. [Ǩ:2]
+Yeah, but they should wake up soon. [Ǩ:5]
+Yeah, but they should wake up soon. [Ǩ:2]
+Yeah, but they should wake up soon. [Ǩ:2]
+
+Let’s get breakfast ready before they come running in. [Ǩ:2]
+Let’s get breakfast ready before they come running in. [Ǩ:5]
+Let’s get breakfast ready before they come running in. [Ǩ:2]
+Let’s get breakfast ready before they come running in. [Ǩ:2]
+
+I hear them stirring now. Guess we’ll have company soon. [Ǩ:2]
+I hear them stirring now. Guess we’ll have company soon. [Ǩ:5]
+I hear them stirring now. Guess we’ll have company soon. [Ǩ:2]
+I hear them stirring now. Guess we’ll have company soon. [Ǩ:2]
+
+Haha, right on time as always. [Ǩ:2]
+Haha, right on time as always. [Ǩ:5]
+Haha, right on time as always. [Ǩ:2]
+Haha, right on time as always. [Ǩ:2]
+
+Good morning, kids. Ready for pancakes? [Ǩ:2]
+Good morning, kids. Ready for pancakes? [Ǩ:5]
+Good morning, kids. Ready for pancakes? [Ǩ:2]
+Good morning, kids. Ready for pancakes? [Ǩ:2]
+
+Yes! Pancakes are my favorite! [Ǩ:2]
+Yes! Pancakes are my favorite! [Ǩ:5]
+Yes! Pancakes are my favorite! [Ǩ:2]
+Yes! Pancakes are my favorite! [Ǩ:2]
+
+Alright, go wash your hands first. [Ǩ:2]
+Alright, go wash your hands first. [Ǩ:5]
+Alright, go wash your hands first. [Ǩ:2]
+Alright, go wash your hands first. [Ǩ:2]
+
+Are we doing anything fun today? [Ǩ:2]
+Are we doing anything fun today? [Ǩ:5]
+Are we doing anything fun today? [Ǩ:2]
+Are we doing anything fun today? [Ǩ:2]
+
+We might go to the park later if the weather’s nice. [Ǩ:2]
+We might go to the park later if the weather’s nice. [Ǩ:5]
+We might go to the park later if the weather’s nice. [Ǩ:2]
+We might go to the park later if the weather’s nice. [Ǩ:2]
+
+Yay, can we bring the frisbee? [Ǩ:2]
+Yay, can we bring the frisbee? [Ǩ:5]
+Yay, can we bring the frisbee? [Ǩ:2]
+Yay, can we bring the frisbee? [Ǩ:2]
+
+Of course! We can play some games at the park. [Ǩ:2]
+Of course! We can play some games at the park. [Ǩ:5]
+Of course! We can play some games at the park. [Ǩ:2]
+Of course! We can play some games at the park. [Ǩ:2]
+
+But first, finish your breakfast. [Ǩ:2]
+But first, finish your breakfast. [Ǩ:5]
+But first, finish your breakfast. [Ǩ:2]
+But first, finish your breakfast. [Ǩ:2]
+
+Do we have any orange juice? [Ǩ:2]
+Do we have any orange juice? [Ǩ:5]
+Do we have any orange juice? [Ǩ:2]
+Do we have any orange juice? [Ǩ:2]
+
+Yep, I’ll pour you a glass right now. [Ǩ:2]
+Yep, I’ll pour you a glass right now. [Ǩ:5]
+Yep, I’ll pour you a glass right now. [Ǩ:2]
+Yep, I’ll pour you a glass right now. [Ǩ:2]
+
+After breakfast, we need to clean up the living room. [Ǩ:2]
+After breakfast, we need to clean up the living room. [Ǩ:5]
+After breakfast, we need to clean up the living room. [Ǩ:2]
+After breakfast, we need to clean up the living room. [Ǩ:2]
+
+Why? Are we having visitors? [Ǩ:2]
+Why? Are we having visitors? [Ǩ:5]
+Why? Are we having visitors? [Ǩ:2]
+Why? Are we having visitors? [Ǩ:2]
+
+Yes, your grandparents are coming over for lunch. [Ǩ:2]
+Yes, your grandparents are coming over for lunch. [Ǩ:5]
+Yes, your grandparents are coming over for lunch. [Ǩ:2]
+Yes, your grandparents are coming over for lunch. [Ǩ:2]
+
+Can we help clean? [Ǩ:2]
+Can we help clean? [Ǩ:5]
+Can we help clean? [Ǩ:2]
+Can we help clean? [Ǩ:2]
+
+Sure, you can help by picking up your toys. [Ǩ:2]
+Sure, you can help by picking up your toys. [Ǩ:5]
+Sure, you can help by picking up your toys. [Ǩ:2]
+Sure, you can help by picking up your toys. [Ǩ:2]
+
+Okay, we’ll start after breakfast. [Ǩ:2]
+Okay, we’ll start after breakfast. [Ǩ:5]
+Okay, we’ll start after breakfast. [Ǩ:2]
+Okay, we’ll start after breakfast. [Ǩ:2]
+
+I’ll handle the dishes once we’re done. [Ǩ:2]
+I’ll handle the dishes once we’re done. [Ǩ:5]
+I’ll handle the dishes once we’re done. [Ǩ:2]
+I’ll handle the dishes once we’re done. [Ǩ:2]
+
+I’ll sweep the floors and wipe down the counters. [Ǩ:2]
+I’ll sweep the floors and wipe down the counters. [Ǩ:5]
+I’ll sweep the floors and wipe down the counters. [Ǩ:2]
+I’ll sweep the floors and wipe down the counters. [Ǩ:2]
+
+We should also dust the shelves. [Ǩ:2]
+We should also dust the shelves. [Ǩ:5]
+We should also dust the shelves. [Ǩ:2]
+We should also dust the shelves. [Ǩ:2]
+
+Good idea. Let’s get everything looking nice. [Ǩ:2]
+Good idea. Let’s get everything looking nice. [Ǩ:5]
+Good idea. Let’s get everything looking nice. [Ǩ:2]
+Good idea. Let’s get everything looking nice. [Ǩ:2]
+
+Do you want me to pick up anything special for lunch? [Ǩ:2]
+Do you want me to pick up anything special for lunch? [Ǩ:5]
+Do you want me to pick up anything special for lunch? [Ǩ:2]
+Do you want me to pick up anything special for lunch? [Ǩ:2]
+
+Maybe grab some fresh bread and cheese from the bakery. [Ǩ:2]
+Maybe grab some fresh bread and cheese from the bakery. [Ǩ:5]
+Maybe grab some fresh bread and cheese from the bakery. [Ǩ:2]
+Maybe grab some fresh bread and cheese from the bakery. [Ǩ:2]
+
+I’ll head there after I finish my coffee. [Ǩ:2]
+I’ll head there after I finish my coffee. [Ǩ:5]
+I’ll head there after I finish my coffee. [Ǩ:2]
+I’ll head there after I finish my coffee. [Ǩ:2]
+
+Can you also get some flowers for the table? [Ǩ:2]
+Can you also get some flowers for the table? [Ǩ:5]
+Can you also get some flowers for the table? [Ǩ:2]
+Can you also get some flowers for the table? [Ǩ:2]
+
+Sure, I’ll stop by the florist. [Ǩ:2]
+Sure, I’ll stop by the florist. [Ǩ:5]
+Sure, I’ll stop by the florist. [Ǩ:2]
+Sure, I’ll stop by the florist. [Ǩ:2]
+
+I think sunflowers would look nice in the vase. [Ǩ:2]
+I think sunflowers would look nice in the vase. [Ǩ:5]
+I think sunflowers would look nice in the vase. [Ǩ:2]
+I think sunflowers would look nice in the vase. [Ǩ:2]
+
+I’ll see if they have any in stock. [Ǩ:2]
+I’ll see if they have any in stock. [Ǩ:5]
+I’ll see if they have any in stock. [Ǩ:2]
+I’ll see if they have any in stock. [Ǩ:2]
+
+Do we need anything else for lunch? [Ǩ:2]
+Do we need anything else for lunch? [Ǩ:5]
+Do we need anything else for lunch? [Ǩ:2]
+Do we need anything else for lunch? [Ǩ:2]
+
+I think we’re good. I already prepped the salad. [Ǩ:2]
+I think we’re good. I already prepped the salad. [Ǩ:5]
+I think we’re good. I already prepped the salad. [Ǩ:2]
+I think we’re good. I already prepped the salad. [Ǩ:2]
+
+Alright, I’ll be back in about an hour. [Ǩ:2]
+Alright, I’ll be back in about an hour. [Ǩ:5]
+Alright, I’ll be back in about an hour. [Ǩ:2]
+Alright, I’ll be back in about an hour. [Ǩ:2]
+
+Drive safe! Don’t forget to grab some extra milk too. [Ǩ:2]
+Drive safe! Don’t forget to grab some extra milk too. [Ǩ:5]
+Drive safe! Don’t forget to grab some extra milk too. [Ǩ:2]
+Drive safe! Don’t forget to grab some extra milk too. [Ǩ:2]
+
+Will do. See you soon! [Ǩ:2]
+Will do. See you soon! [Ǩ:5]
+Will do. See you soon! [Ǩ:2]
+Will do. See you soon! [Ǩ:2]
+
+I’ll get dinner started while you're out. [Ǩ:2]
+I’ll get dinner started while you're out. [Ǩ:5]
+I’ll get dinner started while you're out. [Ǩ:2]
+I’ll get dinner started while you're out. [Ǩ:2]
+
+The faucet in the kitchen is leaking again. [Ǩ:2]
+The faucet in the kitchen is leaking again. [Ǩ:5]
+The faucet in the kitchen is leaking again. [Ǩ:2]
+The faucet in the kitchen is leaking again. [Ǩ:2]
+
+Oh no, did it get worse? [Ǩ:2]
+Oh no, did it get worse? [Ǩ:5]
+Oh no, did it get worse? [Ǩ:2]
+Oh no, did it get worse? [Ǩ:2]
+
+A little, I noticed some water on the floor this morning. [Ǩ:2]
+A little, I noticed some water on the floor this morning. [Ǩ:5]
+A little, I noticed some water on the floor this morning. [Ǩ:2]
+A little, I noticed some water on the floor this morning. [Ǩ:2]
+
+I think we should call the plumber before it gets any worse. [Ǩ:2]
+I think we should call the plumber before it gets any worse. [Ǩ:5]
+I think we should call the plumber before it gets any worse. [Ǩ:2]
+I think we should call the plumber before it gets any worse. [Ǩ:2]
+
+Agreed, I'll give them a call this afternoon. [Ǩ:2]
+Agreed, I'll give them a call this afternoon. [Ǩ:5]
+Agreed, I'll give them a call this afternoon. [Ǩ:2]
+Agreed, I'll give them a call this afternoon. [Ǩ:2]
+
+Should we turn off the water in the meantime? [Ǩ:2]
+Should we turn off the water in the meantime? [Ǩ:5]
+Should we turn off the water in the meantime? [Ǩ:2]
+Should we turn off the water in the meantime? [Ǩ:2]
+
+It might be a good idea, just in case. [Ǩ:2]
+It might be a good idea, just in case. [Ǩ:5]
+It might be a good idea, just in case. [Ǩ:2]
+It might be a good idea, just in case. [Ǩ:2]
+
+I’ll handle that now, hopefully it’s a quick fix. [Ǩ:2]
+I’ll handle that now, hopefully it’s a quick fix. [Ǩ:5]
+I’ll handle that now, hopefully it’s a quick fix. [Ǩ:2]
+I’ll handle that now, hopefully it’s a quick fix. [Ǩ:2]
+
+I hope so too, we’ve had enough house repairs this month. [Ǩ:2]
+I hope so too, we’ve had enough house repairs this month. [Ǩ:5]
+I hope so too, we’ve had enough house repairs this month. [Ǩ:2]
+I hope so too, we’ve had enough house repairs this month. [Ǩ:2]
+
+Tell me about it! Let's just hope it's not too expensive. [Ǩ:2]
+Tell me about it! Let's just hope it's not too expensive. [Ǩ:5]
+Tell me about it! Let's just hope it's not too expensive. [Ǩ:2]
+Tell me about it! Let's just hope it's not too expensive. [Ǩ:2]
+
+Have you finished your work for the day? [Ǩ:2]
+Have you finished your work for the day? [Ǩ:5]
+Have you finished your work for the day? [Ǩ:2]
+Have you finished your work for the day? [Ǩ:2]
+
+Almost, I just need to send one more email. [Ǩ:2]
+Almost, I just need to send one more email. [Ǩ:5]
+Almost, I just need to send one more email. [Ǩ:2]
+Almost, I just need to send one more email. [Ǩ:2]
+
+I’ll start prepping dinner while you wrap things up. [Ǩ:2]
+I’ll start prepping dinner while you wrap things up. [Ǩ:5]
+I’ll start prepping dinner while you wrap things up. [Ǩ:2]
+I’ll start prepping dinner while you wrap things up. [Ǩ:2]
+
+Thanks, I won’t be too long. [Ǩ:2]
+Thanks, I won’t be too long. [Ǩ:5]
+Thanks, I won’t be too long. [Ǩ:2]
+Thanks, I won’t be too long. [Ǩ:2]
+
+What are we having tonight? [Ǩ:2]
+What are we having tonight? [Ǩ:5]
+What are we having tonight? [Ǩ:2]
+What are we having tonight? [Ǩ:2]
+
+I’m thinking stir fry with vegetables and chicken. [Ǩ:2]
+I’m thinking stir fry with vegetables and chicken. [Ǩ:5]
+I’m thinking stir fry with vegetables and chicken. [Ǩ:2]
+I’m thinking stir fry with vegetables and chicken. [Ǩ:2]
+
+Sounds good, do you need help chopping anything? [Ǩ:2]
+Sounds good, do you need help chopping anything? [Ǩ:5]
+Sounds good, do you need help chopping anything? [Ǩ:2]
+Sounds good, do you need help chopping anything? [Ǩ:2]
+
+Actually, that’d be great. Could you slice the bell peppers? [Ǩ:2]
+Actually, that’d be great. Could you slice the bell peppers? [Ǩ:5]
+Actually, that’d be great. Could you slice the bell peppers? [Ǩ:2]
+Actually, that’d be great. Could you slice the bell peppers? [Ǩ:2]
+
+Sure, I’ll get started on that now. [Ǩ:2]
+Sure, I’ll get started on that now. [Ǩ:5]
+Sure, I’ll get started on that now. [Ǩ:2]
+Sure, I’ll get started on that now. [Ǩ:2]
+
+Perfect, we’ll have dinner ready in no time. [Ǩ:2]
+Perfect, we’ll have dinner ready in no time. [Ǩ:5]
+Perfect, we’ll have dinner ready in no time. [Ǩ:2]
+Perfect, we’ll have dinner ready in no time. [Ǩ:2]
+
+Did you feed the dog this morning? [Ǩ:2]
+Did you feed the dog this morning? [Ǩ:5]
+Did you feed the dog this morning? [Ǩ:2]
+Did you feed the dog this morning? [Ǩ:2]
+
+Oh, I totally forgot. I’ll do it right now. [Ǩ:2]
+Oh, I totally forgot. I’ll do it right now. [Ǩ:5]
+Oh, I totally forgot. I’ll do it right now. [Ǩ:2]
+Oh, I totally forgot. I’ll do it right now. [Ǩ:2]
+
+No worries, I’ll take care of it, you’re probably busy. [Ǩ:2]
+No worries, I’ll take care of it, you’re probably busy. [Ǩ:5]
+No worries, I’ll take care of it, you’re probably busy. [Ǩ:2]
+No worries, I’ll take care of it, you’re probably busy. [Ǩ:2]
+
+Thanks, I’ll take him for a walk after. [Ǩ:2]
+Thanks, I’ll take him for a walk after. [Ǩ:5]
+Thanks, I’ll take him for a walk after. [Ǩ:2]
+Thanks, I’ll take him for a walk after. [Ǩ:2]
+
+He’s been full of energy today, a walk sounds perfect. [Ǩ:2]
+He’s been full of energy today, a walk sounds perfect. [Ǩ:5]
+He’s been full of energy today, a walk sounds perfect. [Ǩ:2]
+He’s been full of energy today, a walk sounds perfect. [Ǩ:2]
+
+Maybe we should take him to the dog park later. [Ǩ:2]
+Maybe we should take him to the dog park later. [Ǩ:5]
+Maybe we should take him to the dog park later. [Ǩ:2]
+Maybe we should take him to the dog park later. [Ǩ:2]
+
+That’s a good idea. He always loves running around there. [Ǩ:2]
+That’s a good idea. He always loves running around there. [Ǩ:5]
+That’s a good idea. He always loves running around there. [Ǩ:2]
+That’s a good idea. He always loves running around there. [Ǩ:2]
+
+We’ll need to bring some water for him though. [Ǩ:2]
+We’ll need to bring some water for him though. [Ǩ:5]
+We’ll need to bring some water for him though. [Ǩ:2]
+We’ll need to bring some water for him though. [Ǩ:2]
+
+Good point, I’ll pack his water bottle. [Ǩ:2]
+Good point, I’ll pack his water bottle. [Ǩ:5]
+Good point, I’ll pack his water bottle. [Ǩ:2]
+Good point, I’ll pack his water bottle. [Ǩ:2]
+
+I’ll grab his leash, and we can head out soon. [Ǩ:2]
+I’ll grab his leash, and we can head out soon. [Ǩ:5]
+I’ll grab his leash, and we can head out soon. [Ǩ:2]
+I’ll grab his leash, and we can head out soon. [Ǩ:2]
+
+Are we going to do a movie night tonight? [Ǩ:2]
+Are we going to do a movie night tonight? [Ǩ:5]
+Are we going to do a movie night tonight? [Ǩ:2]
+Are we going to do a movie night tonight? [Ǩ:2]
+
+I think that’s a great idea. What should we watch? [Ǩ:2]
+I think that’s a great idea. What should we watch? [Ǩ:5]
+I think that’s a great idea. What should we watch? [Ǩ:2]
+I think that’s a great idea. What should we watch? [Ǩ:2]
+
+How about a comedy? We could use a good laugh. [Ǩ:2]
+How about a comedy? We could use a good laugh. [Ǩ:5]
+How about a comedy? We could use a good laugh. [Ǩ:2]
+How about a comedy? We could use a good laugh. [Ǩ:2]
+
+Sounds perfect! I’ll make some popcorn. [Ǩ:2]
+Sounds perfect! I’ll make some popcorn. [Ǩ:5]
+Sounds perfect! I’ll make some popcorn. [Ǩ:2]
+Sounds perfect! I’ll make some popcorn. [Ǩ:2]
+
+Do we have any snacks besides popcorn? [Ǩ:2]
+Do we have any snacks besides popcorn? [Ǩ:5]
+Do we have any snacks besides popcorn? [Ǩ:2]
+Do we have any snacks besides popcorn? [Ǩ:2]
+
+I think there’s some chocolate and chips in the pantry. [Ǩ:2]
+I think there’s some chocolate and chips in the pantry. [Ǩ:5]
+I think there’s some chocolate and chips in the pantry. [Ǩ:2]
+I think there’s some chocolate and chips in the pantry. [Ǩ:2]
+
+Awesome, I’ll grab those too. [Ǩ:2]
+Awesome, I’ll grab those too. [Ǩ:5]
+Awesome, I’ll grab those too. [Ǩ:2]
+Awesome, I’ll grab those too. [Ǩ:2]
+
+Let’s get cozy on the couch and start the movie. [Ǩ:2]
+Let’s get cozy on the couch and start the movie. [Ǩ:5]
+Let’s get cozy on the couch and start the movie. [Ǩ:2]
+Let’s get cozy on the couch and start the movie. [Ǩ:2]
+
+Don’t forget to grab a blanket! [Ǩ:2]
+Don’t forget to grab a blanket! [Ǩ:5]
+Don’t forget to grab a blanket! [Ǩ:2]
+Don’t forget to grab a blanket! [Ǩ:2]
+
+Good call, this is going to be a relaxing evening. [Ǩ:2]
+Good call, this is going to be a relaxing evening. [Ǩ:5]
+Good call, this is going to be a relaxing evening. [Ǩ:2]
+Good call, this is going to be a relaxing evening. [Ǩ:2]
+
+Can’t wait to just chill out. [Ǩ:2]
+Can’t wait to just chill out. [Ǩ:5]
+Can’t wait to just chill out. [Ǩ:2]
+Can’t wait to just chill out. [Ǩ:2]
+
+Do we need to do any grocery shopping this weekend? [Ǩ:2]
+Do we need to do any grocery shopping this weekend? [Ǩ:5]
+Do we need to do any grocery shopping this weekend? [Ǩ:2]
+Do we need to do any grocery shopping this weekend? [Ǩ:2]
+
+Probably, we’re running low on a few things. [Ǩ:2]
+Probably, we’re running low on a few things. [Ǩ:5]
+Probably, we’re running low on a few things. [Ǩ:2]
+Probably, we’re running low on a few things. [Ǩ:2]
+
+Let’s make a list so we don’t forget anything. [Ǩ:2]
+Let’s make a list so we don’t forget anything. [Ǩ:5]
+Let’s make a list so we don’t forget anything. [Ǩ:2]
+Let’s make a list so we don’t forget anything. [Ǩ:2]
+
+Good idea! What do we need so far? [Ǩ:2]
+Good idea! What do we need so far? [Ǩ:5]
+Good idea! What do we need so far? [Ǩ:2]
+Good idea! What do we need so far? [Ǩ:2]
+
+Milk, eggs, and bread for starters. [Ǩ:2]
+Milk, eggs, and bread for starters. [Ǩ:5]
+Milk, eggs, and bread for starters. [Ǩ:2]
+Milk, eggs, and bread for starters. [Ǩ:2]
+
+We should get some snacks for the kids too. [Ǩ:2]
+We should get some snacks for the kids too. [Ǩ:5]
+We should get some snacks for the kids too. [Ǩ:2]
+We should get some snacks for the kids too. [Ǩ:2]
+
+I’ll add that to the list. Anything else? [Ǩ:2]
+I’ll add that to the list. Anything else? [Ǩ:5]
+I’ll add that to the list. Anything else? [Ǩ:2]
+I’ll add that to the list. Anything else? [Ǩ:2]
+
+Maybe some fruit, the apples we bought are almost gone. [Ǩ:2]
+Maybe some fruit, the apples we bought are almost gone. [Ǩ:5]
+Maybe some fruit, the apples we bought are almost gone. [Ǩ:2]
+Maybe some fruit, the apples we bought are almost gone. [Ǩ:2]
+
+Okay, I’ll make sure to get more. [Ǩ:2]
+Okay, I’ll make sure to get more. [Ǩ:5]
+Okay, I’ll make sure to get more. [Ǩ:2]
+Okay, I’ll make sure to get more. [Ǩ:2]
+
+This should cover us for the next few days. [Ǩ:2]
+This should cover us for the next few days. [Ǩ:5]
+This should cover us for the next few days. [Ǩ:2]
+This should cover us for the next few days. [Ǩ:2]
+
+Do you want to go for a walk after dinner? [Ǩ:2]
+Do you want to go for a walk after dinner? [Ǩ:5]
+Do you want to go for a walk after dinner? [Ǩ:2]
+Do you want to go for a walk after dinner? [Ǩ:2]
+
+That sounds nice, the weather is perfect for it. [Ǩ:2]
+That sounds nice, the weather is perfect for it. [Ǩ:5]
+That sounds nice, the weather is perfect for it. [Ǩ:2]
+That sounds nice, the weather is perfect for it. [Ǩ:2]
+
+We can take the longer route by the park. [Ǩ:2]
+We can take the longer route by the park. [Ǩ:5]
+We can take the longer route by the park. [Ǩ:2]
+We can take the longer route by the park. [Ǩ:2]
+
