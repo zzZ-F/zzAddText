@@ -1,0 +1,19 @@
+Sarah checks the delivery and starts organizing the supplies.[Ǩ:1]
+Sarah checks the delivery and starts organizing the supplies.[Ǩ:2]
+Sarah
+checks
+the delivery
+and
+starts
+organizing
+the supplies.[Ǩ:2]
+Sarah checks the delivery.[Ǩ:3]
+Sarah checks the delivery.[Ǩ:3]
+Sarah checks the delivery.[Ǩ:3]
+Sarah checks the delivery.[Ǩ:3]
+and starts organizing the supplies.[Ǩ:3]
+and starts organizing the supplies.[Ǩ:3]
+and starts organizing the supplies.[Ǩ:3]
+and starts organizing the supplies.[Ǩ:3]
+Sarah checks the delivery and starts organizing the supplies.[Ǩ:4]
+Sarah checks the delivery and starts organizing the supplies.[Ǩ:4]

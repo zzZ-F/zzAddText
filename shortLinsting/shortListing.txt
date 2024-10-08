@@ -1,0 +1,84 @@
+By five, Sarah begins to clean up the bakery.[Ǩ:1]
+By five, Sarah begins to clean up the bakery.[Ǩ:2]
+By five
+Sarah
+begins
+to clean up
+the bakery.[Ǩ:2]
+By five.[Ǩ:2]
+By five.[Ǩ:2]
+By five.[Ǩ:2]
+By five.[Ǩ:2]
+Sarah begins to clean up the bakery.[Ǩ:3]
+Sarah begins to clean up the bakery.[Ǩ:3]
+Sarah begins to clean up the bakery.[Ǩ:3]
+Sarah begins to clean up the bakery.[Ǩ:3]
+By five, Sarah begins to clean up the bakery.[Ǩ:4]
+By five, Sarah begins to clean up the bakery.[Ǩ:4]
+
+She wipes the counters and makes sure everything is tidy.[Ǩ:1]
+She wipes the counters and makes sure everything is tidy.[Ǩ:2]
+She
+wipes
+the counters
+and
+makes sure
+everything
+is tidy.[Ǩ:2]
+She wipes the counters.[Ǩ:2]
+She wipes the counters.[Ǩ:2]
+She wipes the counters.[Ǩ:2]
+She wipes the counters.[Ǩ:2]
+and makes sure everything is tidy.[Ǩ:3]
+and makes sure everything is tidy.[Ǩ:3]
+and makes sure everything is tidy.[Ǩ:3]
+and makes sure everything is tidy.[Ǩ:3]
+She wipes the counters and makes sure everything is tidy.[Ǩ:4]
+She wipes the counters and makes sure everything is tidy.[Ǩ:4]
+
+Once the bakery is closed, she locks up and heads home.[Ǩ:1]
+Once the bakery is closed, she locks up and heads home.[Ǩ:2]
+Once
+the bakery
+is closed,
+she
+locks up
+and
+heads
+home.[Ǩ:2]
+Once the bakery is closed.[Ǩ:3]
+Once the bakery is closed.[Ǩ:3]
+Once the bakery is closed.[Ǩ:3]
+Once the bakery is closed.[Ǩ:3]
+she locks up and heads home.[Ǩ:3]
+she locks up and heads home.[Ǩ:3]
+she locks up and heads home.[Ǩ:3]
+she locks up and heads home.[Ǩ:3]
+Once the bakery is closed, she locks up and heads home.[Ǩ:4]
+Once the bakery is closed, she locks up and heads home.[Ǩ:4]
+
+
+She reflects on the day's work, feeling proud of what she accomplished.[Ǩ:1]
+She reflects on the day's work, feeling proud of what she accomplished.[Ǩ:2]
+She
+reflects
+on
+the
+day's
+work,
+feeling
+proud
+of
+what
+she
+accomplished.[Ǩ:2]
+She reflects on the day's work.[Ǩ:3]
+She reflects on the day's work.[Ǩ:3]
+She reflects on the day's work.[Ǩ:3]
+She reflects on the day's work.[Ǩ:3]
+feeling proud of what she accomplished.[Ǩ:3]
+feeling proud of what she accomplished.[Ǩ:3]
+feeling proud of what she accomplished.[Ǩ:3]
+feeling proud of what she accomplished.[Ǩ:3]
+She reflects on the day's work, feeling proud of what she accomplished.[Ǩ:4]
+She reflects on the day's work, feeling proud of what she accomplished.[Ǩ:4]
