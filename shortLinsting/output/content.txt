@@ -1,0 +1,482 @@
+Emma is a librarian, and she loves her job.[Ǩ:1]
+Emma is a librarian, and she loves her job.[Ǩ:5]
+Emma
+is
+a
+librarian
+and
+she
+loves
+her
+job
+Emma is a librarian.[Ǩ:3]
+Emma is a librarian.[Ǩ:3]
+Emma is a librarian.[Ǩ:3]
+Emma is a librarian.[Ǩ:3]
+And she loves her job.[Ǩ:3]
+And she loves her job.[Ǩ:3]
+And she loves her job.[Ǩ:3]
+And she loves her job.[Ǩ:3]
+Emma is a librarian, and she loves her job.[Ǩ:4]
+Emma is a librarian, and she loves her job.[Ǩ:4]
+Emma is a librarian, and she loves her job.[Ǩ:4]
+Emma is a librarian, and she loves her job.[Ǩ:4]
+
+Every morning, she opens the library at eight.[Ǩ:1]
+Every morning, she opens the library at eight.[Ǩ:5]
+Every
+morning
+she
+opens
+the
+library
+at
+eight
+Every morning, she opens the library.[Ǩ:3]
+Every morning, she opens the library.[Ǩ:3]
+Every morning, she opens the library.[Ǩ:3]
+Every morning, she opens the library.[Ǩ:3]
+At eight.[Ǩ:3]
+At eight.[Ǩ:3]
+At eight.[Ǩ:3]
+At eight.[Ǩ:3]
+Every morning, she opens the library at eight.[Ǩ:4]
+Every morning, she opens the library at eight.[Ǩ:4]
+Every morning, she opens the library at eight.[Ǩ:4]
+Every morning, she opens the library at eight.[Ǩ:4]
+
+Her first task is to check the returned books.[Ǩ:1]
+Her first task is to check the returned books.[Ǩ:5]
+Her
+first
+task
+is
+to
+check
+the
+returned
+books
+Her first task is to check the returned books.[Ǩ:3]
+Her first task is to check the returned books.[Ǩ:3]
+Her first task is to check the returned books.[Ǩ:3]
+Her first task is to check the returned books.[Ǩ:3]
+And organize them.[Ǩ:3]
+And organize them.[Ǩ:3]
+And organize them.[Ǩ:3]
+And organize them.[Ǩ:3]
+Her first task is to check the returned books.[Ǩ:4]
+Her first task is to check the returned books.[Ǩ:4]
+Her first task is to check the returned books.[Ǩ:4]
+Her first task is to check the returned books.[Ǩ:4]
+
+By ten, the library is filled with students.[Ǩ:1]
+By ten, the library is filled with students.[Ǩ:5]
+By
+ten
+the
+library
+is
+filled
+with
+students
+By ten, the library is filled.[Ǩ:3]
+By ten, the library is filled.[Ǩ:3]
+By ten, the library is filled.[Ǩ:3]
+By ten, the library is filled.[Ǩ:3]
+With students.[Ǩ:3]
+With students.[Ǩ:3]
+With students.[Ǩ:3]
+With students.[Ǩ:3]
+By ten, the library is filled with students.[Ǩ:4]
+By ten, the library is filled with students.[Ǩ:4]
+By ten, the library is filled with students.[Ǩ:4]
+By ten, the library is filled with students.[Ǩ:4]
+
+Emma helps them find the books they need.[Ǩ:1]
+Emma helps them find the books they need.[Ǩ:5]
+Emma
+helps
+them
+find
+the
+books
+they
+need
+Emma helps them find the books.[Ǩ:3]
+Emma helps them find the books.[Ǩ:3]
+Emma helps them find the books.[Ǩ:3]
+Emma helps them find the books.[Ǩ:3]
+They need.[Ǩ:3]
+They need.[Ǩ:3]
+They need.[Ǩ:3]
+They need.[Ǩ:3]
+Emma helps them find the books they need.[Ǩ:4]
+Emma helps them find the books they need.[Ǩ:4]
+Emma helps them find the books they need.[Ǩ:4]
+Emma helps them find the books they need.[Ǩ:4]
+
+She enjoys recommending new books to readers.[Ǩ:1]
+She enjoys recommending new books to readers.[Ǩ:5]
+She
+enjoys
+recommending
+new
+books
+to
+readers
+She enjoys recommending new books.[Ǩ:3]
+She enjoys recommending new books.[Ǩ:3]
+She enjoys recommending new books.[Ǩ:3]
+She enjoys recommending new books.[Ǩ:3]
+To readers.[Ǩ:3]
+To readers.[Ǩ:3]
+To readers.[Ǩ:3]
+To readers.[Ǩ:3]
+She enjoys recommending new books to readers.[Ǩ:4]
+She enjoys recommending new books to readers.[Ǩ:4]
+She enjoys recommending new books to readers.[Ǩ:4]
+She enjoys recommending new books to readers.[Ǩ:4]
+
+Around noon, a group of children arrives for storytime.[Ǩ:1]
+Around noon, a group of children arrives for storytime.[Ǩ:5]
+Around
+noon
+a
+group
+of
+children
+arrives
+for
+storytime
+Around noon, a group of children arrives.[Ǩ:3]
+Around noon, a group of children arrives.[Ǩ:3]
+Around noon, a group of children arrives.[Ǩ:3]
+Around noon, a group of children arrives.[Ǩ:3]
+For storytime.[Ǩ:3]
+For storytime.[Ǩ:3]
+For storytime.[Ǩ:3]
+For storytime.[Ǩ:3]
+Around noon, a group of children arrives for storytime.[Ǩ:4]
+Around noon, a group of children arrives for storytime.[Ǩ:4]
+Around noon, a group of children arrives for storytime.[Ǩ:4]
+Around noon, a group of children arrives for storytime.[Ǩ:4]
+
+Emma reads a story and makes the children laugh.[Ǩ:1]
+Emma reads a story and makes the children laugh.[Ǩ:5]
+Emma
+reads
+a
+story
+and
+makes
+the
+children
+laugh
+Emma reads a story.[Ǩ:3]
+Emma reads a story.[Ǩ:3]
+Emma reads a story.[Ǩ:3]
+Emma reads a story.[Ǩ:3]
+And makes the children laugh.[Ǩ:3]
+And makes the children laugh.[Ǩ:3]
+And makes the children laugh.[Ǩ:3]
+And makes the children laugh.[Ǩ:3]
+Emma reads a story and makes the children laugh.[Ǩ:4]
+Emma reads a story and makes the children laugh.[Ǩ:4]
+Emma reads a story and makes the children laugh.[Ǩ:4]
+Emma reads a story and makes the children laugh.[Ǩ:4]
+
+After the session, she organizes the children’s section.[Ǩ:1]
+After the session, she organizes the children’s section.[Ǩ:5]
+After
+the
+session
+she
+organizes
+the
+children’s
+section
+After the session, she organizes the section.[Ǩ:3]
+After the session, she organizes the section.[Ǩ:3]
+After the session, she organizes the section.[Ǩ:3]
+After the session, she organizes the section.[Ǩ:3]
+And reshelves the books.[Ǩ:3]
+And reshelves the books.[Ǩ:3]
+And reshelves the books.[Ǩ:3]
+And reshelves the books.[Ǩ:3]
+After the session, she organizes the children’s section.[Ǩ:4]
+After the session, she organizes the children’s section.[Ǩ:4]
+After the session, she organizes the children’s section.[Ǩ:4]
+After the session, she organizes the children’s section.[Ǩ:4]
+
+By afternoon, she helps a college student with research.[Ǩ:1]
+By afternoon, she helps a college student with research.[Ǩ:5]
+By
+afternoon
+she
+helps
+a
+college
+student
+with
+research
+By afternoon, she helps a college student.[Ǩ:3]
+By afternoon, she helps a college student.[Ǩ:3]
+By afternoon, she helps a college student.[Ǩ:3]
+By afternoon, she helps a college student.[Ǩ:3]
+With research.[Ǩ:3]
+With research.[Ǩ:3]
+With research.[Ǩ:3]
+With research.[Ǩ:3]
+By afternoon, she helps a college student with research.[Ǩ:4]
+By afternoon, she helps a college student with research.[Ǩ:4]
+By afternoon, she helps a college student with research.[Ǩ:4]
+By afternoon, she helps a college student with research.[Ǩ:4]
+
+Emma enjoys helping students find useful resources.[Ǩ:1]
+Emma enjoys helping students find useful resources.[Ǩ:5]
+Emma
+enjoys
+helping
+students
+find
+useful
+resources
+Emma enjoys helping students.[Ǩ:3]
+Emma enjoys helping students.[Ǩ:3]
+Emma enjoys helping students.[Ǩ:3]
+Emma enjoys helping students.[Ǩ:3]
+Find useful resources.[Ǩ:3]
+Find useful resources.[Ǩ:3]
+Find useful resources.[Ǩ:3]
+Find useful resources.[Ǩ:3]
+Emma enjoys helping students find useful resources.[Ǩ:4]
+Emma enjoys helping students find useful resources.[Ǩ:4]
+Emma enjoys helping students find useful resources.[Ǩ:4]
+Emma enjoys helping students find useful resources.[Ǩ:4]
+
+Later, a teacher comes in to borrow books for her class.[Ǩ:1]
+Later, a teacher comes in to borrow books for her class.[Ǩ:5]
+Later
+a
+teacher
+comes
+in
+to
+borrow
+books
+for
+her
+class
+Later, a teacher comes in.[Ǩ:3]
+Later, a teacher comes in.[Ǩ:3]
+Later, a teacher comes in.[Ǩ:3]
+Later, a teacher comes in.[Ǩ:3]
+To borrow books for her class.[Ǩ:3]
+To borrow books for her class.[Ǩ:3]
+To borrow books for her class.[Ǩ:3]
+To borrow books for her class.[Ǩ:3]
+Later, a teacher comes in to borrow books for her class.[Ǩ:4]
+Later, a teacher comes in to borrow books for her class.[Ǩ:4]
+Later, a teacher comes in to borrow books for her class.[Ǩ:4]
+Later, a teacher comes in to borrow books for her class.[Ǩ:4]
+
+Emma selects several books and checks them out.[Ǩ:1]
+Emma selects several books and checks them out.[Ǩ:5]
+Emma
+selects
+several
+books
+and
+checks
+them
+out
+Emma selects several books.[Ǩ:3]
+Emma selects several books.[Ǩ:3]
+Emma selects several books.[Ǩ:3]
+Emma selects several books.[Ǩ:3]
+And checks them out.[Ǩ:3]
+And checks them out.[Ǩ:3]
+And checks them out.[Ǩ:3]
+And checks them out.[Ǩ:3]
+Emma selects several books and checks them out.[Ǩ:4]
+Emma selects several books and checks them out.[Ǩ:4]
+Emma selects several books and checks them out.[Ǩ:4]
+Emma selects several books and checks them out.[Ǩ:4]
+
+She spends the rest of the day organizing the shelves.[Ǩ:1]
+She spends the rest of the day organizing the shelves.[Ǩ:5]
+She
+spends
+the
+rest
+of
+the
+day
+organizing
+the
+shelves
+She spends the rest of the day.[Ǩ:3]
+She spends the rest of the day.[Ǩ:3]
+She spends the rest of the day.[Ǩ:3]
+She spends the rest of the day.[Ǩ:3]
+Organizing the shelves.[Ǩ:3]
+Organizing the shelves.[Ǩ:3]
+Organizing the shelves.[Ǩ:3]
+Organizing the shelves.[Ǩ:3]
+She spends the rest of the day organizing the shelves.[Ǩ:4]
+She spends the rest of the day organizing the shelves.[Ǩ:4]
+She spends the rest of the day organizing the shelves.[Ǩ:4]
+She spends the rest of the day organizing the shelves.[Ǩ:4]
+
+By closing time, Emma feels satisfied with her work.[Ǩ:1]
+By closing time, Emma feels satisfied with her work.[Ǩ:5]
+By
+closing
+time
+Emma
+feels
+satisfied
+with
+her
+work
+By closing time, Emma feels satisfied.[Ǩ:3]
+By closing time, Emma feels satisfied.[Ǩ:3]
+By closing time, Emma feels satisfied.[Ǩ:3]
+By closing time, Emma feels satisfied.[Ǩ:3]
+With her work.[Ǩ:3]
+With her work.[Ǩ:3]
+With her work.[Ǩ:3]
+With her work.[Ǩ:3]
+By closing time, Emma feels satisfied with her work.[Ǩ:4]
+By closing time, Emma feels satisfied with her work.[Ǩ:4]
+By closing time, Emma feels satisfied with her work.[Ǩ:4]
+By closing time, Emma feels satisfied with her work.[Ǩ:4]
+
+She locks the doors and waves goodbye to the last visitor.[Ǩ:1]
+She locks the doors and waves goodbye to the last visitor.[Ǩ:5]
+She
+locks
+the
+doors
+and
+waves
+goodbye
+to
+the
+last
+visitor
+She locks the doors.[Ǩ:3]
+She locks the doors.[Ǩ:3]
+She locks the doors.[Ǩ:3]
+She locks the doors.[Ǩ:3]
+And waves goodbye to the last visitor.[Ǩ:3]
+And waves goodbye to the last visitor.[Ǩ:3]
+And waves goodbye to the last visitor.[Ǩ:3]
+And waves goodbye to the last visitor.[Ǩ:3]
+She locks the doors and waves goodbye to the last visitor.[Ǩ:4]
+She locks the doors and waves goodbye to the last visitor.[Ǩ:4]
+She locks the doors and waves goodbye to the last visitor.[Ǩ:4]
+She locks the doors and waves goodbye to the last visitor.[Ǩ:4]
+
+After work, Emma goes home and has dinner with her family.[Ǩ:1]
+After work, Emma goes home and has dinner with her family.[Ǩ:5]
+After
+work
+Emma
+goes
+home
+and
+has
+dinner
+with
+her
+family
+After work, Emma goes home.[Ǩ:3]
+After work, Emma goes home.[Ǩ:3]
+After work, Emma goes home.[Ǩ:3]
+After work, Emma goes home.[Ǩ:3]
+And has dinner with her family.[Ǩ:3]
+And has dinner with her family.[Ǩ:3]
+And has dinner with her family.[Ǩ:3]
+And has dinner with her family.[Ǩ:3]
+After work, Emma goes home and has dinner with her family.[Ǩ:4]
+After work, Emma goes home and has dinner with her family.[Ǩ:4]
+After work, Emma goes home and has dinner with her family.[Ǩ:4]
+After work, Emma goes home and has dinner with her family.[Ǩ:4]
+
+She reflects on her day and thinks about the people she helped.[Ǩ:1]
+She reflects on her day and thinks about the people she helped.[Ǩ:5]
+She
+reflects
+on
+her
+day
+and
+thinks
+about
+the
+people
+she
+helped
+She reflects on her day.[Ǩ:3]
+She reflects on her day.[Ǩ:3]
+She reflects on her day.[Ǩ:3]
+She reflects on her day.[Ǩ:3]
+And thinks about the people she helped.[Ǩ:3]
+And thinks about the people she helped.[Ǩ:3]
+And thinks about the people she helped.[Ǩ:3]
+And thinks about the people she helped.[Ǩ:3]
+She reflects on her day and thinks about the people she helped.[Ǩ:4]
+She reflects on her day and thinks about the people she helped.[Ǩ:4]
+She reflects on her day and thinks about the people she helped.[Ǩ:4]
+She reflects on her day and thinks about the people she helped.[Ǩ:4]
+
+Emma feels happy knowing she made a difference today.[Ǩ:1]
+Emma feels happy knowing she made a difference today.[Ǩ:5]
+Emma
+feels
+happy
+knowing
+she
+made
+a
+difference
+today
+Emma feels happy.[Ǩ:3]
+Emma feels happy.[Ǩ:3]
+Emma feels happy.[Ǩ:3]
+Emma feels happy.[Ǩ:3]
+Knowing she made a difference today.[Ǩ:3]
+Knowing she made a difference today.[Ǩ:3]
+Knowing she made a difference today.[Ǩ:3]
+Knowing she made a difference today.[Ǩ:3]
+Emma feels happy knowing she made a difference today.[Ǩ:4]
+Emma feels happy knowing she made a difference today.[Ǩ:4]
+Emma feels happy knowing she made a difference today.[Ǩ:4]
+Emma feels happy knowing she made a difference today.[Ǩ:4]
+
+The next morning, Emma wakes up ready for another day.[Ǩ:1]
+The next morning, Emma wakes up ready for another day.[Ǩ:5]
+The
+next
+morning
+Emma
+wakes
+up
+ready
+for
+another
+day
+The next morning, Emma wakes up.[Ǩ:3]
+The next morning, Emma wakes up.[Ǩ:3]
+The next morning, Emma wakes up.[Ǩ:3]
+The next morning, Emma wakes up.[Ǩ:3]
+Ready for another day.[Ǩ:3]
+Ready for another day.[Ǩ:3]
+Ready for another day.[Ǩ:3]
+Ready for another day.[Ǩ:3]
+The next morning, Emma wakes up ready for another day.[Ǩ:4]
+The next morning, Emma wakes up ready for another day.[Ǩ:4]
+The next morning, Emma wakes up ready for another day.[Ǩ:4]
+The next morning, Emma wakes up ready for another day.[Ǩ:4]
+
