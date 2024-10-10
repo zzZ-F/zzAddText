@@ -135,7 +135,7 @@ To readers.[Ǩ:3]
 She enjoys recommending new books to readers.[Ǩ:4]
 She enjoys recommending new books to readers.[Ǩ:4]
 She enjoys recommending new books to readers.[Ǩ:4]
-She enjoys recommending new books to readers.[Ǩ:4]
+She enjoys recommending new books to readers.[Ǩ:4] ---
 
 Around noon, a group of children arrives for storytime.[Ǩ:1]
 Around noon, a group of children arrives for storytime.[Ǩ:5]
@@ -252,7 +252,7 @@ Find useful resources.[Ǩ:3]
 Emma enjoys helping students find useful resources.[Ǩ:4]
 Emma enjoys helping students find useful resources.[Ǩ:4]
 Emma enjoys helping students find useful resources.[Ǩ:4]
-Emma enjoys helping students find useful resources.[Ǩ:4]
+Emma enjoys helping students find useful resources.[Ǩ:4] ---
 
 Later, a teacher comes in to borrow books for her class.[Ǩ:1]
 Later, a teacher comes in to borrow books for her class.[Ǩ:5]
@@ -376,7 +376,7 @@ And waves goodbye to the last visitor.[Ǩ:3]
 She locks the doors and waves goodbye to the last visitor.[Ǩ:4]
 She locks the doors and waves goodbye to the last visitor.[Ǩ:4]
 She locks the doors and waves goodbye to the last visitor.[Ǩ:4]
-She locks the doors and waves goodbye to the last visitor.[Ǩ:4]
+She locks the doors and waves goodbye to the last visitor.[Ǩ:4] ---
 
 After work, Emma goes home and has dinner with her family.[Ǩ:1]
 After work, Emma goes home and has dinner with her family.[Ǩ:5]
@@ -478,5 +478,5 @@ Ready for another day.[Ǩ:3]
 The next morning, Emma wakes up ready for another day.[Ǩ:4]
 The next morning, Emma wakes up ready for another day.[Ǩ:4]
 The next morning, Emma wakes up ready for another day.[Ǩ:4]
-The next morning, Emma wakes up ready for another day.[Ǩ:4]
+The next morning, Emma wakes up ready for another day.[Ǩ:4] ---
 
