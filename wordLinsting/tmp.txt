@@ -1,106 +1,42 @@
-what is this?[Ǩ:3]
-Carrot
-Carrot
-Carrots are good for your eyesight.
-what is this?[Ǩ:3]
-Broccoli
-Broccoli
-Broccoli boosts your immune system.
-what is this?[Ǩ:3]
-Cabbage
-Cabbage
-Cabbage helps with digestion.
-what is this?[Ǩ:3]
-Spinach
-Spinach
-Spinach is rich in iron.
-what is this?[Ǩ:3]
-Lettuce
-Lettuce	Lettuce is great for hydration.
-what is this?[Ǩ:3]
-Tomato
-Tomato
-Tomatoes can whiten your skin.
-what is this?[Ǩ:3]
-Cucumber
-Cucumber
-Cucumbers keep your skin fresh.
-what is this?[Ǩ:3]
-Potato
-Potato
-Potatoes are a good source of energy.
-what is this?[Ǩ:3]
-Onion
-Onion
-Onions improve heart health.
-what is this?[Ǩ:3]
-Garlic
-Garlic	Garlic boosts your immune system.
-what is this?[Ǩ:3]
-Pepper
-Pepper
-Peppers are rich in vitamin C.
-what is this?[Ǩ:3]
-Eggplant
-Eggplant
-Eggplants are high in fiber.
-what is this?[Ǩ:3]
-Cauliflower
-Cauliflower
-Cauliflower supports bone health.
-what is this?[Ǩ:3]
-Zucchini
-Zucchini
-Zucchini is low in calories.
-what is this?[Ǩ:3]
-Celery
-Celery
-Celery can help lower blood pressure.
-what is this?[Ǩ:3]
-Pumpkin
-Pumpkin
-Pumpkin is good for your vision.
-what is this?[Ǩ:3]
-Beetroot
-Beetroot
-Beetroots improve blood flow.
-what is this?[Ǩ:3]
-Radish
-Radish
-Radishes aid digestion.
-what is this?[Ǩ:3]
-Peas
-Peas
-Peas are high in protein.
-what is this?[Ǩ:3]
-Mushroom
-Mushroom
-Mushrooms boost your immune system.
-what is this?[Ǩ:3]
-Kale
-Kale
-Kale is packed with antioxidants.
-what is this?[Ǩ:3]
-Asparagus
-Asparagus
-Asparagus helps detoxify your body.
-what is this?[Ǩ:3]
-Sweet Potato
-Sweet Potato
-Sweet potatoes are high in vitamin A.
-what is this?[Ǩ:3]
-Green Beans
-Green Beans
-Green beans are a good source of fiber.
-what is this?[Ǩ:3]
-Artichoke
-Artichoke
-Artichokes are great for liver health.
-what is this?[Ǩ:3]
-Chili Pepper
-Chili Pepper
-Chili peppers speed up metabolism.
-what is this?[Ǩ:3]
-Scallion
-Scallion
-Scallions promote heart health.
+I   breakfast every day.
+Eat
+I eat breakfast every day.
+She   on a cracker.
+Nibble
+She nibbled on a cracker.
+They   on popcorn.
+Munch
+They munched on popcorn.
+I like to   on nuts.
+Snack on
+I like to snack on nuts.
+They   on a big meal.
+Feast
+They feasted on a big meal.
+She took a   of the sandwich.
+Bite
+She took a bite of the sandwich.
+He   the candy slowly.
+Chew
+He chewed the candy slowly.
+You should   more vitamins.
+Ingest
+You should ingest more vitamins.
+He   the pill.
+Swallow
+He swallowed the pill.
+They   on the buffet.
+Gorge
+They gorged on the buffet.
+She   the chocolate.
+Savor
+She savored the chocolate.
+They   on burgers.
+Chow down
+They chowed down on burgers.
+He   the soup.
+Taste
+He tasted the soup.
+She   at her salad.
+Pick at
+She picked at her salad.
