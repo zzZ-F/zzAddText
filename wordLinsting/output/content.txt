@@ -1,90 +1,45 @@
-what is this ?[Ǩ:3]
-Knife[Ǩ:1]
-Knife[Ǩ:1]
-This is a knife.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Fork[Ǩ:1]
-Fork[Ǩ:1]
-This is a fork.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Spoon[Ǩ:1]
-Spoon[Ǩ:1]
-This is a spoon.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Plate[Ǩ:1]
-Plate[Ǩ:1]
-This is a plate.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Bowl[Ǩ:1]
-Bowl[Ǩ:1]
-This is a bowl.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Cutting Board[Ǩ:1]
-Cutting Board[Ǩ:1]
-This is a cutting board.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Whisk[Ǩ:1]
-Whisk[Ǩ:1]
-This is a whisk.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Blender[Ǩ:1]
-Blender[Ǩ:1]
-This is a blender.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Toaster[Ǩ:1]
-Toaster[Ǩ:1]
-This is a toaster.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Pan[Ǩ:1]
-Pan[Ǩ:1]
-This is a pan.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Pot[Ǩ:1]
-Pot[Ǩ:1]
-This is a pot.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Tongs[Ǩ:1]
-Tongs[Ǩ:1]
-This is a pair of tongs.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Bottle Opener[Ǩ:1]
-Bottle Opener[Ǩ:1]
-This is a bottle opener.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Turner[Ǩ:1]
-Turner[Ǩ:1]
-This is a turner.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Kettle[Ǩ:1]
-Kettle[Ǩ:1]
-This is a kettle.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Sieve[Ǩ:1]
-Sieve[Ǩ:1]
-This is a sieve.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-Rolling Pin[Ǩ:1]
-Rolling Pin[Ǩ:1]
-This is a rolling pin.[Ǩ:1]
-
-what is this ?[Ǩ:3]
-scissors[Ǩ:1]
-scissors[Ǩ:1]
-This is a pair of scissors.[Ǩ:1]
-
+What should I do with this?
+chop
+Chop the carrots into small pieces
+What should I do with this?
+slice
+Slice the bread
+What should I do with this?
+dice
+Dice the onions finely
+What should I do with this?
+mince
+Mince the garlic
+What should I do with this?
+julienne
+Julienne the bell peppers
+What should I do with this?
+cube
+Cube the potatoes
+What should I do with this?
+grate
+Grate the cheese
+What should I do with this?
+carve
+Carve the roast chicken
+What should I do with this?
+peel
+Peel the potatoes
+What should I do with this?
+quarter
+Quarter the tomatoes
+What should I do with this?
+crush
+Crush the garlic
+What should I do with this?
+butterfly
+Butterfly the chicken breast
+What should I do with this?
+score
+Score the meat before grilling
+What should I do with this?
+debone
+Debone the chicken
+What should I do with this?
+puree
+Puree the vegetables
