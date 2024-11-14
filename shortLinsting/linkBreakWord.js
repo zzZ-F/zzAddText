@@ -4,20 +4,16 @@ const xlsx = require('xlsx');
 
 const folderName = '1114';
 const type = '法语';
-
-const types = ['英语', '法语', '西班牙语']
-
+const types = ['英语', '法语', '西班牙语'];
 
 // 定义变量
 let columnName = '';
 
-if(type === '英语') {
+if (type === '英语') {
     columnName = '英语';
-}
-if(type === '法语') {
+} else if (type === '法语') {
     columnName = '法语';
-}
-if(type === '西班牙语') {
+} else if (type === '西班牙语') {
     columnName = '西班牙语';
 }
 
@@ -42,8 +38,10 @@ data.forEach((row, index) => {
     if (row[columnName]) {
         const words = row[columnName].split(' ');
         const processedWords = words.map((word, i) => {
-            // 在最后一个单词后加((⏱️=3000))
-            return i === words.length - 1 ? `${word}((⏱️=3000))\n` : `${word}\n`;
+            // 在最后一个单词后加((⏱️=3000))，但每第十句时不加
+            return i === words.length - 1 && (index + 1) % 10 !== 0
+                ? `${word}((⏱️=3000))\n`
+                : `${word}\n`;
         }).join('');
         outputText += processedWords;
 
