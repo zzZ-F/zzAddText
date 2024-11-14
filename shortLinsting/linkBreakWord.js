@@ -2,12 +2,29 @@ const fs = require('fs');
 const path = require('path');
 const xlsx = require('xlsx');
 
-// 文件路径
-const filePath = path.join(process.env.HOME, 'Desktop/EnglishListening/1114/逐字稿.xlsx');
-// const outputDir = path.join(process.env.HOME, 'Desktop/EnglishListening/1114/output');
-const outputDir = path.join(__dirname, 'output');
+const folderName = '1114';
+const type = '法语';
 
-const outputFile = path.join(outputDir, 'processed_sentences.txt');
+const types = ['英语', '法语', '西班牙语']
+
+
+// 定义变量
+let columnName = '';
+
+if(type === '英语') {
+    columnName = '英语';
+}
+if(type === '法语') {
+    columnName = '法语';
+}
+if(type === '西班牙语') {
+    columnName = '西班牙语';
+}
+
+// 文件路径
+const filePath = path.join(process.env.HOME, `Desktop/EnglishListening/${folderName}/逐字稿.xlsx`);
+const outputDir = path.join(__dirname, 'output');
+const outputFile = path.join(outputDir, 'words_sentences.txt');
 
 // 读取 Excel 文件
 const workbook = xlsx.readFile(filePath);
@@ -22,8 +39,8 @@ if (!fs.existsSync(outputDir)) {
 // 处理数据
 let outputText = '';
 data.forEach((row, index) => {
-    if (row['英语']) {
-        const words = row['英语'].split(' ');
+    if (row[columnName]) {
+        const words = row[columnName].split(' ');
         const processedWords = words.map((word, i) => {
             // 在最后一个单词后加((⏱️=3000))
             return i === words.length - 1 ? `${word}((⏱️=3000))\n` : `${word}\n`;
@@ -32,11 +49,11 @@ data.forEach((row, index) => {
 
         // 每 10 句添加一个额外的换行分隔
         if ((index + 1) % 10 === 0) {
-            outputText += '\n';
+            outputText += '\n\n\n';
         }
     }
 });
 
 // 写入到文本文件
 fs.writeFileSync(outputFile, outputText, 'utf8');
-console.log('内容已成功输出到 processed_sentences.txt 文件中');
+console.log('内容已成功输出到 words_sentences.txt 文件中');
