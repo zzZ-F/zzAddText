@@ -3,7 +3,7 @@ const xlsx = require('xlsx');
 const path = require('path');
 
 // Load the Excel file
-const filePath = path.join(__dirname, '长的听力.xlsx'); // Replace with your file path
+const filePath = path.join(__dirname, '逐字稿.xlsx'); // Replace with your file path
 const workbook = xlsx.readFile(filePath);
 const sheetName = workbook.SheetNames[0]; // Assuming we only have one sheet
 const worksheet = workbook.Sheets[sheetName];
@@ -21,7 +21,7 @@ if (!fs.existsSync(outputDir)) {
 let content = '';
 
 data.forEach((row, index) => {
-    const englishSentence = row['简体中文']; // Accessing the '英文' column
+    const englishSentence = row['中文翻译']; // Accessing the '英文' column
 
     // Repeat and modify the sentence
     content += `${englishSentence} [Ǩ:3]\n`;
@@ -31,4 +31,4 @@ data.forEach((row, index) => {
 const outputPath = path.join(outputDir, '用于生成中文配音的.txt');
 fs.writeFileSync(outputPath, content, 'utf8');
 
-console.log('Processing complete. Check the output folder for content.txt');
+console.log('Processing complete. Check the output folder for 用于生成中文配音的.txt');
