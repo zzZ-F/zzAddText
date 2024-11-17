@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+/longListing/output
+/shortLinsting/output
+/wordLinsting/output
+
 # production
 /build
 .idea
