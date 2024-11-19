@@ -18,14 +18,14 @@ function processExcel(filePath, outputPath) {
     }
 
     rows.forEach((row) => {
-        // 跳过中文及中文短句的处理
-        if (row[2] && row[4] && row[6]) {
-            row[4] = row[4]; // 中文短句1
-            row[6] = row[6]; // 中文短句2
+        // 处理英语、中文
+        if (row[1] && row[3] && row[5]) {
+            row[3] = row[3]; // 中文短句1
+            row[5] = row[5]; // 中文短句2
         }
 
         // 处理英语、法语、西班牙语
-        [["英语", 1, 3, 5], ["法语", 7, 8, 9], ["西班牙语", 10, 11, 12]].forEach(
+        [["英语", 0, 2, 4], ["法语", 6, 7, 8], ["西班牙语", 9, 10, 11]].forEach(
             ([lang, mainColIndex, short1Index, short2Index]) => {
                 const mainText = row[mainColIndex]?.trim() || "";
                 const shortPhrase1 = row[short1Index]?.trim() || "";
